@@ -26,4 +26,4 @@ Team Resume: [Our Resume](https://drive.google.com/file/d/1zcgR5VNpKbO-9jwW9zaEY
 Wanna reach us? **ShiftTeam@gmail.com**
 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1sgetPM00wWqJpVUTl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl">via GIPHY</a></p>
+![coding_in_progress](https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl.gif)
