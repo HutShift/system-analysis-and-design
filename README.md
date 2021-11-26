@@ -13,7 +13,7 @@ This repository is a collection of the categorized data extracted from our workf
 - [x] Phase01: Introduction to "CafeBazar"
 - [x] Phase02: Requset For Proposal (RFP)
 - [x] Phase03: Business Proposal (as an answer to previous phase)
-- [x] phase04: Educating Team and GitHub profile :)
-- [ ] Phase05:
+- [x] phase04: Educating Team and Setting up GitHub profile :)
+- [ ] Phase05: UML, DFD and ER modeling
 - [ ] Phase06:
 - [ ] Phase07:
