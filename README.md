@@ -21,5 +21,5 @@ This repository is a collection of the categorized data extracted from our workf
 - [ ] Phase07: Implementation of Demo version
 
 ## :question::exclamation: About Us
-Team Resume: [https://drive.google.com/file/d/1zcgR5VNpKbO-9jwW9zaEYYgQhIrAzT6C/view?usp=sharing](Our Resume)
+Team Resume: [Our Resume](https://drive.google.com/file/d/1zcgR5VNpKbO-9jwW9zaEYYgQhIrAzT6C/view?usp=sharing)
 Wanna reach us? **ShiftTeam@gmail.com**
