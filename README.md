@@ -17,5 +17,5 @@ This repository is a collection of the categorized data extracted from our workf
 - [x] Phase03: Business Proposal (as an answer to previous phase)
 - [x] phase04: Educating Team and Setting up GitHub profile :)
 - [ ] Phase05: UML, DFD and ER modeling
-- [ ] Phase06:
-- [ ] Phase07:
+- [ ] Phase06: UI (Prototype)
+- [ ] Phase07: Implementation of Demo version
