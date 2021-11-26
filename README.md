@@ -24,3 +24,5 @@ This repository is a collection of the categorized data extracted from our workf
 Team Resume: [Our Resume](https://drive.google.com/file/d/1zcgR5VNpKbO-9jwW9zaEYYgQhIrAzT6C/view?usp=sharing)
 
 Wanna reach us? **ShiftTeam@gmail.com**
+
+<iframe src="https://giphy.com/embed/1sgetPM00wWqJpVUTl" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/purwadhikaschool-coding-programming-purwadhika-1sgetPM00wWqJpVUTl">via GIPHY</a></p>
