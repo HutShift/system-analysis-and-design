@@ -4,4 +4,16 @@
 We are Shift, a productive and enthusiast programming team studying **Software Engineering and IT** at **Hamedan University of Technology**
 
 ## Why here?
+
 This repository is a collection of the categorized data extracted from our workflow in **System Analysis and Design course**
+
+## Our Roadmap
+
+- [x] Phase00: Team Resume
+- [x] Phase01: Introduction to "CafeBazar"
+- [x] Phase02: Requset For Proposal (RFP)
+- [x] Phase03: Business Proposal (as an answer to previous phase)
+- [x] phase04: Educating Team and GitHub profile :)
+- [ ] Phase05:
+- [ ] Phase06:
+- [ ] Phase07:
