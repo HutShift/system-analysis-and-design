@@ -24,6 +24,4 @@ This repository is a collection of the categorized data extracted from our workf
 Team Resume: [Our Resume](https://drive.google.com/file/d/1zcgR5VNpKbO-9jwW9zaEYYgQhIrAzT6C/view?usp=sharing)
 
 Wanna reach us? **ShiftTeam@gmail.com**
-
-
 ![coding_in_progress](https://media4.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=ecf05e47rqnpwu0fiq93pwl7rfdz66sccitf72883adogwrt&rid=giphy.gif&ct=s)
